@@ -1,4 +1,3 @@
 rails-rover
 ===========
-
-Project start for Rails Rover
+Content management system in Rails
